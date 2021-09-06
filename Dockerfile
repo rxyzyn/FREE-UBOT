@@ -1,7 +1,7 @@
 # Using Python Slim-Buster
 FROM xluxz/freeproject:buster
-# RAM-UBOT
-# Geez-UserBot
+# FREE-UBOT
+# FREE-UserBot
 #yaudah iya
 
 RUN git clone -b RAM-UBOT https://github.com/rxyzyn/FREE-UBOT /root/userbot
